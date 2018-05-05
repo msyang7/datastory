@@ -61,13 +61,13 @@ To better understand who uses the hashtag, I ran the user descriptions through a
 To better understand the “who,” I also used a pivot table to identify the top 10 accounts using #engineering. The results displayed in the table suggest that the hashtag is often used by accounts whose primary function is recruiting.
 
 
-TABLE
+![Table 1](https://github.com/msyang7/datastory/blob/master/images/Table%201.png)
 
 
 Of course, using the hashtag does not mean that the tweet is influential. To start to identify influential tweets I decided to look at favorited tweets because retweets seemed to be more automated, for example, a circle of accounts all retweeting the same content. Below are the top 10 most favorited tweets. Most of the tweets express wonder at the feats of #engineering. @colin_furze, who also has a YouTube account “with all the crazy inventions and projects”, appears 3 times. He has approximately 35,800 followers. Exploring how the invocation of wonder overlaps with the more pragmatic concern of getting a job could be the focus of future analysis.   
 
 
-TABLE
+![Table 2](https://github.com/msyang7/datastory/blob/master/images/Table%202.png) ![Table 2.1](https://github.com/msyang7/datastory/blob/master/images/Table%201.png)
 
 ## Possible Next Steps
 
