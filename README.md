@@ -28,7 +28,7 @@ What types of media, e.g. images and videos, accompany tweets with the hashtag?
 
 I can posit answers to some of these questions by using spreadsheets and word clouds to analyze the tweets. First, to understand why people might use the hashtag, I generated the word cloud in Fig. 1. It represents other hashtags that accounts used in addition to #engineering within the same tweet. The bigger the word appears the more often it occurred. The words that occurred most often were related to jobs and hiring. Specifically, “CareerArc” is a company that specializes in online recruiting. I was surprised to see jimmyfallon on the word cloud. I discovered that it first appeared in this tweet:
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
+![jimmyfallon](https://github.com/msyang7/datastory/blob/master/images/jimmyfallon.png)
 
 
 And, then it appears to have been scraped as a hashtag associated with engineering by an account promoting continuing education programs and tweeted over and over again: 
