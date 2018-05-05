@@ -28,12 +28,12 @@ What types of media, e.g. images and videos, accompany tweets with the hashtag?
 
 I can posit answers to some of these questions by using spreadsheets and word clouds to analyze the tweets. First, to understand why people might use the hashtag, I generated the word cloud in Fig. 1. It represents other hashtags that accounts used in addition to #engineering within the same tweet. The bigger the word appears the more often it occurred. The words that occurred most often were related to jobs and hiring. Specifically, “CareerArc” is a company that specializes in online recruiting. I was surprised to see jimmyfallon on the word cloud. I discovered that it first appeared in this tweet:
 
-![jimmyfallon](https://github.com/msyang7/datastory/blob/master/images/jimmyfallon.png)
+![jimmyfallon1](https://github.com/msyang7/datastory/blob/master/images/jimmyfallon1.png)
 
 
 And, then it appears to have been scraped as a hashtag associated with engineering by an account promoting continuing education programs and tweeted over and over again: 
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
+![jimmyfallon2](https://github.com/msyang7/datastory/blob/master/images/jimmyfallon2.png)
 
 
 To better understand who uses the hashtag, I ran the user descriptions through a word cloud generator as well. The results are displayed in Fig. 2. “Engineering” is the word that occured most often, which suggests that many of the accounts identify with or specialize in engineering somewhat exclusively. The other word that caught my eye was “Need.” Given the high occurrence of career related words, my initial guess was that perhaps users were sharing that they needed a job. However, a small sample of user descriptions with the word “need” suggests that they are framing their expertise as something that is needed. For example:
