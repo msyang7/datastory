@@ -14,16 +14,16 @@ While hashtags can be used to follow social justice movements, for example to �
 ## Questions
 
 Questions I am interested in answering about this data include:
-Why do people use the hashtag?
-Who uses the hashtag?
-What are the most popular or influential accounts and tweets using the hashtag?
-Who follows accounts that use the hashtag?
-Who RTs tweets with the hashtag and who follows them?
-How do people respond to tweets with the hashtag?
-What types of media, e.g. images and videos, accompany tweets with the hashtag?
+* Why do people use the hashtag?
+* Who uses the hashtag?
+* What are the most popular or influential accounts and tweets using the hashtag?
+* Who follows accounts that use the hashtag?
+* Who RTs tweets with the hashtag and who follows them?
+* How do people respond to tweets with the hashtag?
+* What types of media, e.g. images and videos, accompany tweets with the hashtag?
 
 
-## Sketching of Some Possile Answers
+## Sketching Some Possible Answers
 
 
 I can posit answers to some of these questions by using spreadsheets and word clouds to analyze the tweets. First, to understand why people might use the hashtag, I generated the word cloud in Fig. 1. It represents other hashtags that accounts used in addition to #engineering within the same tweet. The bigger the word appears the more often it occurred. 
@@ -49,13 +49,13 @@ To better understand who uses the hashtag, I ran the user descriptions through a
 “Engineering” is the word that occured most often, which suggests that many of the accounts identify with or specialize in engineering somewhat exclusively. The other word that caught my eye was “Need.” Given the high occurrence of career related words, my initial guess was that perhaps users were sharing that they needed a job. However, a small sample of user descriptions with the word “need” suggests that they are framing their expertise as something that is needed. For example:
 
 
-“For all travelers in India, a Map of India is a must and thus the need for us to find the best map for you.” @MapsofIndia
+**“For all travelers in India, a Map of India is a must and thus the need for us to find the best map for you.” @MapsofIndia**
 
 
-“Official account of Embry-Riddle Aeronautical University - Worldwide. Giving you exactly the education you need, exactly the way you need it.”  @ERAUWorldwide
+**“Official account of Embry-Riddle Aeronautical University - Worldwide. Giving you exactly the education you need, exactly the way you need it.”  @ERAUWorldwide**
 
 
-“McFarland Johnson is a recognized leader in infrastructure planning, design & construction management, serving the daily needs of communities throughout the US.” @McFar_Johnson
+**“McFarland Johnson is a recognized leader in infrastructure planning, design & construction management, serving the daily needs of communities throughout the US.” @McFar_Johnson**
  
  
 To better understand the “who,” I also used a pivot table to identify the top 10 accounts using #engineering. The results displayed in the table suggest that the hashtag is often used by accounts whose primary function is recruiting.
@@ -67,7 +67,7 @@ To better understand the “who,” I also used a pivot table to identify the to
 Of course, using the hashtag does not mean that the tweet is influential. To start to identify influential tweets I decided to look at favorited tweets because retweets seemed to be more automated, for example, a circle of accounts all retweeting the same content. Below are the top 10 most favorited tweets. Most of the tweets express wonder at the feats of #engineering. @colin_furze, who also has a YouTube account “with all the crazy inventions and projects”, appears 3 times. He has approximately 35,800 followers. Exploring how the invocation of wonder overlaps with the more pragmatic concern of getting a job could be the focus of future analysis.   
 
 
-![Table 2](https://github.com/msyang7/datastory/blob/master/images/Table%202.png) ![Table 2.1](https://github.com/msyang7/datastory/blob/master/images/Table%201.png)
+![Table 2](https://github.com/msyang7/datastory/blob/master/images/Table%202.png)![Table 2.1](https://github.com/msyang7/datastory/blob/master/images/Table%202.1.png)
 
 ## Possible Next Steps
 
@@ -75,14 +75,8 @@ I tried to find an easy way to visualize the network/assemblage swirling about #
 
 ## Ethical Considerations
 
-In terms of ethical questions, I realize that the twarc search may have captured private accounts, but the information I have included here seems to be from accounts intended to be public. My goal in collecting this data is to address an ethical question directly, specifically, “who we see as inventors [or to use my word, engineers], what we see as creativity [or to use my word, engineering], and on whose terms their ideas and practices are valued.”5 Returning to Turner’s opening quote, this cursory analysis suggests that engineering culture is first about getting a job, not “about making the product.”6 If that is the case, then the use of #engineering is a “digital redline” because it is potentially “creating and normalizing structural and systemic isolation” by constraining who becomes an engineer.7 This constraint could function both materially (perhaps only certain people can see the job posts) and symbolically (perhaps the image of who is an engineer prohibits some people from pursuing those jobs). Equally important is how the explicit connection between engineering and economic opportunity may also constrain the actions of engineers. Remembering MacIntyre’s definition of character as placing “a certain kind of moral constraint on the personality of those who inhabit them,” the key questions to pursue include who can become the character who engineers and, what can the character of the engineer engineer when the prominent value is getting and keeping a job.8 
+In terms of ethical questions, I realize that the twarc search may have captured private accounts, but the information I have included here seems to be from accounts intended to be public. My goal in collecting this data is to address an ethical question directly, specifically, “who we see as inventors *[or to use my word, engineers]*, what we see as creativity *[or to use my word, engineering]*, and on whose terms their ideas and practices are valued.”5 Returning to Turner’s opening quote, this cursory analysis suggests that engineering culture is first about getting a job, not “about making the product.”6 If that is the case, then the use of #engineering is a “digital redline” because it is potentially “creating and normalizing structural and systemic isolation” by constraining who becomes an engineer.7 This constraint could function both materially (perhaps only certain people can see the job posts) and symbolically (perhaps the image of who is an engineer prohibits some people from pursuing those jobs). Equally important is how the explicit connection between engineering and economic opportunity may also constrain the actions of engineers. Remembering MacIntyre’s definition of character as placing “a certain kind of moral constraint on the personality of those who inhabit them,” the key questions to pursue include who can become the character who engineers and, what can the character of the engineer *engineer* when the prominent value is getting and keeping a job.8 
 
-
-## Examples of Links
-
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
-
-![chart](https://github.com/umd-mith/datastory/raw/master/images/chart.png)
 
 1 Fred Turner, “Don't Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers,” Logic Magazine, https://logicmag.io/03-dont-be-evil/.
 
