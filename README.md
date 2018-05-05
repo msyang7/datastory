@@ -4,7 +4,7 @@
 
 “Engineering culture is about making the product.”1 
 
-Is engineering culture “about making the product” as Fred Turner asserts? Is it about more, or less, or something altogether different? These are the questions that motivated me to collect [a .csv sheet filled with tweets that included “#engineering] (https://github.com/msyang7/datastory/blob/master/data/engtweets.csv).” I am interested in how society constructs the image of engineering and how this image might influence students’ relationships to engineering, including decisions to pursue engineering as a major and interactions with the curriculum once they begin engineering coursework. My working assumption is that we each have an image of “the engineer,” an image that functions much like Alasdair MacIntyre’s “character.” MacIntyre defines character as “a very special type of social role which places a certain kind of moral constraint on the personality of those who inhabit them in a way in which many other social roles do not.”2 If #engineering is what an engineer does, then my concern is how the image of that doing constrains. 
+Is engineering culture “about making the product” as Fred Turner asserts? Is it about more, or less, or something altogether different? These are the questions that motivated me to collect [engtweets.csv](https://github.com/msyang7/datastory/blob/master/data/engtweets.csv), a sheet filled with tweets that included “#engineering.” I am interested in how society constructs the image of engineering and how this image might influence students’ relationships to engineering, including decisions to pursue engineering as a major and interactions with the curriculum once they begin engineering coursework. My working assumption is that we each have an image of “the engineer,” an image that functions much like Alasdair MacIntyre’s “character.” MacIntyre defines character as “a very special type of social role which places a certain kind of moral constraint on the personality of those who inhabit them in a way in which many other social roles do not.”2 If #engineering is what an engineer does, then my concern is how the image of that doing constrains. 
 
 ## How
 
@@ -23,7 +23,7 @@ How do people respond to tweets with the hashtag?
 What types of media, e.g. images and videos, accompany tweets with the hashtag?
 
 
-## The Sketching of Some Possile Anwers
+## Sketching of Some Possile Answers
 
 
 I can posit answers to some of these questions by using spreadsheets and word clouds to analyze the tweets. First, to understand why people might use the hashtag, I generated the word cloud in Fig. 1. It represents other hashtags that accounts used in addition to #engineering within the same tweet. The bigger the word appears the more often it occurred. The words that occurred most often were related to jobs and hiring. Specifically, “CareerArc” is a company that specializes in online recruiting. I was surprised to see jimmyfallon on the word cloud. I discovered that it first appeared in this tweet:
